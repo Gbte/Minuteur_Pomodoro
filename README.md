@@ -11,6 +11,10 @@ un disposif pensé au élèves pour éviter de tomber dans la procrastination en
 5. À la fin de la pause, le buzzer sonne à nouveau trois fois.
 Tu peux appuyer sur l'un ou l'autre bouton pour démarrer son compte à rebours, même si un autre est déjà en cours. Pour respecter le cycle Pomodoro, appuie sur PAUSE lorsque la concentration est terminée.
 ## 📸 Aperçu
+<img width="405" alt="WhatsApp Image 2026-10-11 at 11 11 48 PM" src="https://github.com/user-attachments/assets/b433bc03-7fea-4481-884a-2542a3cc070d" />
+
+<img width="405" alt="WhatsApp Image 2026-10-11 at 11 13 18 PM" src="https://github.com/user-attachments/assets/673e5ab2-3a53-4d23-a808-9a0c82104ebb" />
+.
 <img width="810" height="1080" alt="WhatsApp Image 2026-10-11 at 11 11 48 PM" src="https://github.com/user-attachments/assets/b433bc03-7fea-4481-884a-2542a3cc070d" />
 
 <img width="810" height="1080" alt="WhatsApp Image 2026-10-11 at 11 13 18 PM" src="https://github.com/user-attachments/assets/673e5ab2-3a53-4d23-a808-9a0c82104ebb" />
