@@ -14,10 +14,7 @@ Tu peux appuyer sur l'un ou l'autre bouton pour démarrer son compte à rebours,
 <img width="405" alt="WhatsApp Image 2026-10-11 at 11 11 48 PM" src="https://github.com/user-attachments/assets/b433bc03-7fea-4481-884a-2542a3cc070d" />
 
 <img width="405" alt="WhatsApp Image 2026-10-11 at 11 13 18 PM" src="https://github.com/user-attachments/assets/673e5ab2-3a53-4d23-a808-9a0c82104ebb" />
-.
-<img width="810" height="1080" alt="WhatsApp Image 2026-10-11 at 11 11 48 PM" src="https://github.com/user-attachments/assets/b433bc03-7fea-4481-884a-2542a3cc070d" />
 
-<img width="810" height="1080" alt="WhatsApp Image 2026-10-11 at 11 13 18 PM" src="https://github.com/user-attachments/assets/673e5ab2-3a53-4d23-a808-9a0c82104ebb" />
 
 ## ✨ Fonctionnalités
 - Décompte des sessions Pomodoro (25 min de travail / 5 min de pause).
